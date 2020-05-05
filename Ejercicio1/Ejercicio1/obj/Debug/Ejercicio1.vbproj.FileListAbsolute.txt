@@ -1,0 +1,33 @@
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.xml
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbprojAssemblyReference.cache
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Resources.resources
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.GenerateResource.cache
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.xml
+C:\Users\pamel\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.xml
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbprojAssemblyReference.cache
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Resources.resources
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.GenerateResource.cache
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.xml
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.xml
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbprojAssemblyReference.cache
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Resources.resources
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.GenerateResource.cache
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.xml
+C:\Users\pamel\Desktop\Pamela Rodriguez- Practico Visual Basic\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

@@ -1,0 +1,22 @@
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojAssemblyReference.cache
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.cache
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+C:\Users\pamel\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojAssemblyReference.cache
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.cache
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+C:\Users\pamel\Desktop\Trabajos para mandar\Pamela Rodriguez- Practico Visual Basic\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
